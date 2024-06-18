@@ -35,7 +35,7 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 
 ## This project is supported by
 
-- [Bangkit Academy 2024 led by Google, GoTo, & Traveloka]([https://kampusmerdeka.kemdikbud.go.id/](https://www.dicoding.com/programs/bangkit))
+- [Bangkit Academy 2024 led by Google, GoTo, & Traveloka](https://www.dicoding.com/programs/bangkit)
 - [Merdeka Belajar Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
 
 <!---
