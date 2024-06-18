@@ -16,15 +16,15 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 
 ## Contact The Developers
 
-| Name                       | GitHub            | GitHub Link                          | LinkedIn Link                      |
-|----------------------------|-------------------|--------------------------------------|------------------------------------|
-| Hani Jastin Giovanni Ladjamba     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Quaresma Pergamus Soruday  | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/03Res)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Rayhan Fatih Abdurrahmam   | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/rayhanfth)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Rifki Ahmad Fauzan         | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/lohlohko)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Rega Madila Tresnahadi     | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/RegaMadila)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Arda Suryo Wicaksono       | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/ardasuryo)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
-| Muhammad Hanif Al Farisi   | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/hanifalfarisi01)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
+| Name                       | GitHub            | GitHub Link                          
+|----------------------------|-------------------|--------------------------------------
+| Hani Jastin Giovanni Ladjamba     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/haniladjamba) 
+| Quaresma Pergamus Soruday  | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/03Res]) 
+| Rayhan Fatih Abdurrahmam   | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/03Res]) 
+| Rifki Ahmad Fauzan         | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/lohlohko]) 
+| Rega Madila Tresnahadi     | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/RegaMadila]) 
+| Arda Suryo Wicaksono       | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/ardasuryo]) 
+| Muhammad Hanif Al Farisi   | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com/hanifalfarisi01]) 
 
 ## Miscellaneous
 
@@ -36,8 +36,8 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 
 ## This project is supported by
 
-- [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](#)
-- [Merdeka Belajar Kampus Merdeka](#)
+- [Bangkit Academy 2024 led by Google, GoTo, & Traveloka]([https://kampusmerdeka.kemdikbud.go.id/](https://www.dicoding.com/programs/bangkit))
+- [Merdeka Belajar Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
 
 <!---
 Huetiful/Huetiful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
