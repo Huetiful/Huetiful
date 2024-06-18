@@ -18,7 +18,7 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 
 | Name                       | GitHub            | GitHub Link                          | LinkedIn Link                      |
 |----------------------------|-------------------|--------------------------------------|------------------------------------|
-| Hani Jastin Giovanni L     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
+| Hani Jastin Giovanni Ladjamba     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
 | Quaresma Pergamus Soruday  | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/03Res)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
 | Rayhan Fatih Abdurrahmam   | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/rayhanfth)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
 | Rifki Ahmad Fauzan         | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)]([https://github.com](https://github.com/lohlohko)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://linkedin.com) |
