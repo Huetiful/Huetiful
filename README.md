@@ -14,7 +14,7 @@ To support this main feature, Huetiful also offers additional functionalities:
 
 ## Try it now!
 
-You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.kemdikbud.go.id/).
+You can try Huetiful now by downloading the app [here](https://kampusmerdeka.kemdikbud.go.id/).
 
 ## Contact The Developers
 
