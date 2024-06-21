@@ -23,7 +23,7 @@ You can try Huetiful now by downloading the app [here](https://kampusmerdeka.kem
 | Hani Jastin Giovanni Ladjamba     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/haniladjamba) 
 | Quaresma Pergamus Soruday  | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/03Res) 
 | Rayhan Fatih Abdurrahmam   | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/rayhanfth) 
-| Rifki Ahmad Fauzan         | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/lohlohko) 
+| Rifki Ahmad Fauzan         | Cloud Engineer    | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/rifkiozan) 
 | Rega Madila Tresnahadi     | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/RegaMadila) 
 | Arda Suryo Wicaksono       | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/ardasuryo) 
 | Muhammad Hanif Al Farisi   | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/hanifalfarisi01) 
