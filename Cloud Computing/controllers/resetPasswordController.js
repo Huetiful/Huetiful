@@ -80,7 +80,6 @@ const verifyResetToken = async (req, res) => {
     }
 };
 
-// Reset password function is no longer needed as it is handled by verifyResetToken
 const resetPassword = async (req, res) => {
     res.status(405).json({
         status: 'error',
