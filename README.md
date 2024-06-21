@@ -28,11 +28,32 @@ You can try Huetiful now by downloading the app [here](https://kampusmerdeka.kem
 | Arda Suryo Wicaksono       | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/ardasuryo) 
 | Muhammad Hanif Al Farisi   | ML Engineer       | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/hanifalfarisi01) 
 
-## Miscellaneous
+## Tools and Resources used
 
-- [Machine Learning Repository](#)
-- [Android Repository](#)
-- [Backend Repository](#)
+- **Machine Learning** :
+  * Flask
+  * tensorflow
+  * opencv-python-headless
+  * matplotlib
+  * numpy
+  * os
+  * rembg
+  * pillow
+  * colorthief
+  * gunicorn
+  
+- **Cloud & Backend** : 
+  * Express.js
+  * Cloud Run
+  * Cloud SQL
+  * Compute Engine
+
+- **Mobile Development** :
+  * Kotlin
+  * Figma
+  * Retrofit
+  * Jetpack Compose
+  * Glide
 
 
 ## This project is supported by
