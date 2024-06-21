@@ -1,4 +1,4 @@
-<img width="863" alt="Asset_12x" src="https://github.com/Huetiful/Huetiful/assets/173178040/3a46cdb6-11c2-4be9-8f03-078ee78cc6c1">
+<img width="160" alt="Asset_12x" src="https://github.com/Huetiful/Huetiful/assets/173178040/3a46cdb6-11c2-4be9-8f03-078ee78cc6c1">
 
 # What is Huetiful?
 
