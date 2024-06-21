@@ -18,7 +18,7 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 
 ## Contact The Developers
 
-| Name                       | GitHub            | GitHub Link                          
+| Name                       | Learning Path            | GitHub Link                          
 |----------------------------|-------------------|--------------------------------------
 | Hani Jastin Giovanni Ladjamba     | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/haniladjamba) 
 | Quaresma Pergamus Soruday  | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/03Res) 
