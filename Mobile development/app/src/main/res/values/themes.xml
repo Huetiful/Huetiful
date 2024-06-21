@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HueTiful" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red_700</item>
+        <item name="colorPrimaryVariant">@color/red_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violet_200</item>
+        <item name="colorSecondaryVariant">@color/violet_600</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Welcome" parent="Theme.MaterialComponents.DayNight.Bridge" >
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red_700</item>
+        <item name="colorPrimaryVariant">@color/red_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violet_200</item>
+        <item name="colorSecondaryVariant">@color/violet_600</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextColor"><item name="android:textColor">@color/black</item></style>
+    <style name="CardBackground"><item name="android:backgroundTint">@color/white_100</item></style>
+    <style name="NavBarColor"><item name="background">@color/white_100</item></style>
+    <style name="BorderColor">
+        <item name="strokeColor">@color/black_100</item>
+        <item name="android:src">@drawable/mage_image_plus</item>
+    </style>
+    <style name="BorderColor2">
+    <item name="strokeColor">@color/black_100</item>
+    </style>
+    <style name="BackButtonColor"><item name="android:src">@drawable/baseline_arrow_forward_ios_24</item></style>
+    <style name="LogoutIcon"><item name="android:src">@drawable/tabler_door_exit</item></style>
+    <style name="EditTextColor">
+        <item name="hintTextColor">@color/red_700</item>
+        <item name="android:textColorHint">@color/grey</item>
+    </style>
+    <style name="EditTextBackground"><item name="backgroundTint">@color/white</item></style>
+    <style name="EmailIconColor"><item name="android:src">@drawable/line_md_email</item></style>
+    <style name="CopyIconColor"><item name="android:src">@drawable/solar_copy_linear</item></style>
+    <style name="ViewColor"><item name="android:background">@drawable/rounded_background</item></style>
+    <style name="WelcomeBackground"><item name="android:src">@drawable/splash_screen_light_cut2</item></style>
+</resources>
