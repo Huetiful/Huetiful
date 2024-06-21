@@ -80,6 +80,7 @@ const verifyResetToken = async (req, res) => {
     }
 };
 
+// Not needed
 const resetPassword = async (req, res) => {
     res.status(405).json({
         status: 'error',
